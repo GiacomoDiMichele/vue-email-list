@@ -1,7 +1,6 @@
 var app = new Vue({
     el: '#root',
     data: {
-        nome_paragrafo:,
         //creo una lista email dove pushare tutte le mail prese
         lista_email: [
 
